@@ -1,8 +1,0 @@
-# Welcome to DataSchool
-
-Hi, welcome to CodeClan and to the DataSchool event for DataFest 2020!
-
-```{r}
-
-```
-
